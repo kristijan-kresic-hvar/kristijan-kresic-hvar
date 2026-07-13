@@ -2,7 +2,7 @@
 
 **Full-stack developer for modern web products.**
 
-I ship fast, polished work end-to-end — AI-assisted workflow, hand-finished by me.
+I ship fast, polished work end-to-end — AI-augmented workflow, hand-finished by me.
 
 Currently at [Agilno](https://agilno.com/) · Hvar, Croatia (CET)<br>
 4 years professional · Building for the web since 2016
