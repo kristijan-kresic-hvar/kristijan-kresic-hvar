@@ -4,7 +4,9 @@
 
 I ship fast, polished work end-to-end — AI-augmented workflow, hand-finished by me.
 
-Currently at [Agilno](https://agilno.com/) · Hvar, Croatia (CET)<br>
+<img src="assets/open-to-work.svg" alt="Open to work — available August 2026" width="352" height="36">
+
+At [Agilno](https://agilno.com/) until August 2026 · Hvar, Croatia (CET)<br>
 4 years professional · Building for the web since 2016
 
 <img src="assets/amber-rule.svg" alt="" width="640" height="3">

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="36" viewBox="0 0 352 36" role="img" aria-label="Open to work — available August 2026">
+  <style>
+    .label { font: 600 12px "SFMono-Regular", "Menlo", "Consolas", "Liberation Mono", monospace; letter-spacing: 1.2px; fill: #F5F5F5; }
+    .muted { fill: #8E8E8E; }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { display: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="351" height="35" rx="17.5" fill="#141416" stroke="#26262B"/>
+  <circle class="pulse" cx="22" cy="18" r="4" fill="none" stroke="#F59E0B" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="r" values="4;10" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="22" cy="18" r="4" fill="#F59E0B"/>
+  <text x="40" y="22" class="label">OPEN TO WORK</text>
+  <text x="148" y="22" class="label muted">· AVAILABLE AUGUST 2026</text>
+</svg>
