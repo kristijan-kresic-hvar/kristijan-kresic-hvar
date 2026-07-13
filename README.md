@@ -19,7 +19,7 @@ Currently at [Agilno](https://agilno.com/) · Hvar, Croatia (CET)<br>
 
 ### `STACK`
 
-TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · Claude Code
+TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · AI agents (Claude Code, Codex)
 
 ### `CONTACT`
 
