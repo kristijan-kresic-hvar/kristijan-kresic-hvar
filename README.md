@@ -1,29 +1,26 @@
 # Kristijan Krešić
 
-Frontend engineer at [Agilno](https://agilno.com/), building web apps with React, Next.js and Astro — and the AI-assisted development workflows around them.
+**Full-stack developer for modern web products.**
 
-## 🔧 What I'm working on
+I ship fast, polished work end-to-end — AI-assisted workflow, hand-finished by me.
 
-- [**ai-review-kit**](https://github.com/kristijan-kresic-hvar/ai-review-kit) — two adversarial AI reviewers on every PR, an autonomous fix loop, and a fail-closed merge gate. GitHub Actions + Claude Code + Codex.
-- [**linear-pipeline-kit**](https://github.com/kristijan-kresic-hvar/linear-pipeline-kit) — Linear-driven dev workflow for Claude Code: tickets as executable specs, worktree+PR discipline, TDD, backlog queue runner.
-- [**kristijankresic.com**](https://kristijankresic.com) — my portfolio site.
+Currently at [Agilno](https://agilno.com/) · Hvar, Croatia (CET)<br>
+4 years professional · Building for the web since 2016
 
-## 💼 Skills
+### `NOW`
 
-- **Frontend:** React, Next.js, Astro, TypeScript, Tailwind CSS, Vue.js
-- **Backend:** Node.js, PHP, RESTful APIs
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **AI tooling:** Claude Code, agentic review pipelines, MCP
-- **Other:** Payload CMS, Git, Vite, responsive design
+- **[kristijankresic.com](https://kristijankresic.com)** — new portfolio in progress. Astro 6, Tailwind v4, React 19 islands. Dark-only, token-driven design system. The repo runs its own AI review pipeline; the workflow is part of the case study.
+- **[ai-review-kit](https://github.com/kristijan-kresic-hvar/ai-review-kit)** — two adversarial AI reviewers on every PR (Claude + Codex), autonomous fix loop, fail-closed merge gate.
+- **[linear-pipeline-kit](https://github.com/kristijan-kresic-hvar/linear-pipeline-kit)** — Linear-driven workflow for Claude Code. Tickets as executable specs, worktree + PR discipline, backlog queue runner.
 
-## 📫 Let's connect
+### `HOW I WORK`
 
-- [LinkedIn](https://www.linkedin.com/in/kkwebdev/)
-- [Portfolio](https://kristijankresic.com)
-- 📧 kristijan.kresic.dev@gmail.com
+> AI for codegen scaffolds and research drafts. Not for architecture decisions, security review, or anything that ships under my name.
 
-## 🌟 GitHub stats
+### `STACK`
 
-![Kristijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristijan-kresic-hvar&show_icons=true&hide_border=true&count_private=true&theme=gotham)
+TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · Claude Code
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristijan-kresic-hvar&hide_border=true&layout=compact&theme=gotham)
+### `CONTACT`
+
+[kristijankresic.com](https://kristijankresic.com) · [LinkedIn](https://www.linkedin.com/in/kkwebdev/) · kristijan.kresic.dev@gmail.com
