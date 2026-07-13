@@ -7,6 +7,8 @@ I ship fast, polished work end-to-end — AI-augmented workflow, hand-finished b
 Currently at [Agilno](https://agilno.com/) · Hvar, Croatia (CET)<br>
 4 years professional · Building for the web since 2016
 
+<img src="assets/amber-rule.svg" alt="" width="640" height="3">
+
 ### `NOW`
 
 - **[kristijankresic.com](https://kristijankresic.com)** — new portfolio in progress. Astro 6, Tailwind v4, React 19 islands. Dark-only, token-driven design system. The repo runs its own AI review pipeline; the workflow is part of the case study.
