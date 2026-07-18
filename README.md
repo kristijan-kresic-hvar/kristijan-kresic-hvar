@@ -27,7 +27,7 @@ Six client engagements over 3.5 years at [Agilno](https://agilno.com/) — HIPAA
 
 ### `STACK`
 
-TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · AI agents (Claude Code, Codex)
+TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · AI agents (Claude Code, Codex, Cursor)
 
 ### `CONTACT`
 
