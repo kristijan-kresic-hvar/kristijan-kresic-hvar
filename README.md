@@ -17,6 +17,10 @@ At [Agilno](https://agilno.com/) until August 2026 · Hvar, Croatia (CET)<br>
 - **[ai-review-kit](https://github.com/kristijan-kresic-hvar/ai-review-kit)** — two adversarial AI reviewers on every PR (Claude + Codex), autonomous fix loop, fail-closed merge gate.
 - **[linear-pipeline-kit](https://github.com/kristijan-kresic-hvar/linear-pipeline-kit)** — Linear-driven workflow for Claude Code. Tickets as executable specs, worktree + PR discipline, backlog queue runner.
 
+### `BACKGROUND`
+
+Six client engagements over 3.5 years at [Agilno](https://agilno.com/) — HIPAA healthcare, pet telehealth at 100k+ users, React Native + BLE IoT, insurance, CMS-driven marketplace. Full history on [LinkedIn](https://www.linkedin.com/in/kkwebdev/).
+
 ### `HOW I WORK`
 
 > AI for codegen scaffolds and research drafts. Not for architecture decisions, security review, or anything that ships under my name.
