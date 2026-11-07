@@ -1,25 +1,30 @@
 # Kristijan Krešić
 
-**Full-stack developer for modern web products.**
+**Frontend engineer · React / Next.js / TypeScript.**
 
-I ship fast, polished work end-to-end — AI-augmented workflow, hand-finished by me.
+4+ years shipping production web and mobile products for North American clients. Frontend end-to-end: architecture, data layer, component system, forms, delivery.
 
-<a href="https://www.linkedin.com/in/kkwebdev/"><img src="assets/open-to-work.svg" alt="Open to work — available August 2026" width="352" height="36"></a>
+<a href="https://www.linkedin.com/in/kkwebdev/"><img src="assets/open-to-work.svg" alt="Open to work — available now" width="352" height="36"></a>
 
-At [Agilno](https://agilno.com/) until August 2026 · Hvar, Croatia (CET)<br>
-4 years professional · Building for the web since 2016
+Hvar, Croatia (CET) · EU citizen · remote across the EU or US-East overlap, or hybrid in Split<br>
+Frontend Developer at [Agilno](https://agilno.com/) Jan 2023 – Aug 2026 · building for the web since 2016
 
 <img src="assets/amber-rule.svg" alt="" width="640" height="3">
 
-### `NOW`
+### `WORK`
 
-- **[kristijankresic.com](https://kristijankresic.com)** — new portfolio in progress. Astro 6, Tailwind v4, React 19 islands. Dark-only, token-driven design system. The repo runs its own AI review pipeline; the workflow is part of the case study.
-- **[ai-review-kit](https://github.com/kristijan-kresic-hvar/ai-review-kit)** — two adversarial AI reviewers on every PR (Claude + Codex), autonomous fix loop, fail-closed merge gate.
-- **[linear-pipeline-kit](https://github.com/kristijan-kresic-hvar/linear-pipeline-kit)** — Linear-driven workflow for Claude Code. Tickets as executable specs, worktree + PR discipline, backlog queue runner.
+Six client engagements at Agilno, embedded in each team:
 
-### `BACKGROUND`
+- **BioCirV Data Portal** — public biomass-discovery platform. Built the discovery UI from scratch (search, faceted filters, interactive maps, Recharts dashboards) on Next.js 16 / React 19 / TypeScript over a Django REST API; owned the frontend foundation two other developers built on and reviewed their PRs. [biocirv.beamcircular.org](https://biocirv.beamcircular.org)
+- **OnCallable** — replatformed a static marketing site onto a CMS-driven Sanity architecture in about two weeks; editors ship pages, popups, redirects and A/B tests with zero developer deploys. [oncallable.com](https://oncallable.com)
+- **Suello** — React Native companion app for a BLE smart planter, built from scratch: Bluetooth pairing and device layer, auth, onboarding.
+- **Vetster** — Vue.js features and Laravel controllers/migrations on a 24/7 pet-telehealth platform with 100k+ app users. [vetster.com](https://vetster.com)
+- **Naitur** — frontend for a US-regulated (HIPAA) psilocybin-therapy platform: JWT magic-link auth, multi-party e-signature, analytics. [naitur.ai](https://naitur.ai)
+- **BuddyIns** — Next.js frontend over a Django API with PayPal subscription payments. [buddyins.com](https://buddyins.com)
 
-Six client engagements over 3.5 years at [Agilno](https://agilno.com/) — HIPAA healthcare, pet telehealth at 100k+ users, React Native + BLE IoT, insurance, CMS-driven marketplace. Full history on [LinkedIn](https://www.linkedin.com/in/kkwebdev/).
+### `CODE HERE`
+
+- **[portfolio-v2](https://github.com/kristijan-kresic-hvar/portfolio-v2)** — Astro 6 + TypeScript codebase showing how I set up and run a project: strict TS, Tailwind v4 tokens, Vitest, commitlint, CI, and two AI reviewers plus a merge gate on every PR.
 
 ### `HOW I WORK`
 
@@ -27,8 +32,12 @@ Six client engagements over 3.5 years at [Agilno](https://agilno.com/) — HIPAA
 
 ### `STACK`
 
-TypeScript · React · Next.js · Astro · Tailwind CSS · Node.js · PostgreSQL · AI agents (Claude Code, Codex, Cursor)
+React · Next.js (App Router) · TypeScript · Tailwind CSS · TanStack Query · Zod · React Native · Laravel/PHP · PostgreSQL · Sanity · Vitest · GitHub Actions · Vercel · Claude Code, Cursor
+
+### `CV`
+
+[Frontend](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-frontend.pdf) · [Software engineer (full-stack ads)](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-fullstack.pdf)
 
 ### `CONTACT`
 
-[kristijankresic.com](https://kristijankresic.com) · [LinkedIn](https://www.linkedin.com/in/kkwebdev/) · kristijan.kresic.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kkwebdev/) · kristijan.kresic.dev@gmail.com
