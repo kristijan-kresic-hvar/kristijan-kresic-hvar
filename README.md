@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/kkwebdev/"><img src="assets/open-to-work.svg" alt="Open to work — available now" width="352" height="36"></a>
 
 Hvar, Croatia (CET) · EU citizen · remote across the EU or US-East overlap, or hybrid in Split<br>
-Frontend Developer at [Agilno](https://agilno.com/) Jan 2023 – Aug 2026 · building for the web since 2016
+Frontend Developer, [Agilno](https://agilno.com/) (Jan 2023 – Aug 2026) · building for the web since 2016
 
 <img src="assets/amber-rule.svg" alt="" width="640" height="3">
 
@@ -24,7 +24,7 @@ Six client engagements at Agilno, embedded in each team:
 
 ### `CODE HERE`
 
-- **[portfolio-v2](https://github.com/kristijan-kresic-hvar/portfolio-v2)** — Astro 6 + TypeScript codebase showing how I set up and run a project: strict TS, Tailwind v4 tokens, Vitest, commitlint, CI, and two AI reviewers plus a merge gate on every PR.
+- **[portfolio-v2](https://github.com/kristijan-kresic-hvar/portfolio-v2)** — Astro, not React: my React/Next.js production work is client-owned (see WORK). This repo shows how I set up and run a codebase: strict TypeScript, Tailwind v4 tokens, Vitest, commitlint, CI, and two AI reviewers plus a merge gate on every PR. Start at `src/components/` and `src/content.config.ts`.
 
 ### `HOW I WORK`
 
@@ -32,11 +32,11 @@ Six client engagements at Agilno, embedded in each team:
 
 ### `STACK`
 
-React · Next.js (App Router) · TypeScript · Tailwind CSS · TanStack Query · Zod · React Native · Laravel/PHP · PostgreSQL · Sanity · Vitest · GitHub Actions · Vercel · Claude Code, Cursor
+React · Next.js (App Router) · TypeScript · Tailwind CSS · TanStack Query · Zod · React Native · Laravel/PHP · PostgreSQL · Sanity · Vitest · GitHub Actions · Vercel
 
 ### `CV`
 
-[Frontend](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-frontend.pdf) · [Software engineer (full-stack ads)](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-fullstack.pdf)
+[Frontend CV](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-frontend.pdf) · [Full-stack CV](https://github.com/kristijan-kresic-hvar/portfolio-v2/blob/main/public/cv/kristijan-kresic-cv-fullstack.pdf)
 
 ### `CONTACT`
 
