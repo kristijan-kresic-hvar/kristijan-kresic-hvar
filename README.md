@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/kkwebdev/"><img src="assets/open-to-work.svg" alt="Open to work — available now" width="352" height="36"></a>
 
-Hvar, Croatia (CET) · EU citizen · remote across the EU or US-East overlap, or hybrid in Split<br>
+Hvar, Croatia (CET) · EU citizen · remote across the EU or US-East overlap, or hybrid in Split or Zagreb<br>
 Frontend Developer, [Agilno](https://agilno.com/) (Jan 2023 – Aug 2026) · building for the web since 2016
 
 <img src="assets/amber-rule.svg" alt="" width="640" height="3">
