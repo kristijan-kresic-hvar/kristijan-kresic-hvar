@@ -24,7 +24,7 @@ Six client engagements at Agilno, embedded in each team:
 
 ### `CODE HERE`
 
-- **[portfolio-v2](https://github.com/kristijan-kresic-hvar/portfolio-v2)** — Astro, not React: my React/Next.js production work is client-owned (see WORK). This repo shows how I set up and run a codebase: strict TypeScript, Tailwind v4 tokens, Vitest, commitlint, CI, and two AI reviewers plus a merge gate on every PR. Start at `src/components/` and `src/content.config.ts`.
+- **[portfolio-v2](https://github.com/kristijan-kresic-hvar/portfolio-v2)** — how I set up and run a codebase: strict TypeScript, Tailwind v4 tokens, Vitest, commitlint, CI, and two AI reviewers plus a merge gate on every PR. Start at `src/components/` and `src/content.config.ts`. (It's Astro, not React — my React/Next.js production work is client-owned; see WORK.)
 
 ### `HOW I WORK`
 
