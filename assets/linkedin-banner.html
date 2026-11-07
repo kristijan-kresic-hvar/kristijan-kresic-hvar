@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  /* Tokens from portfolio-v2 DESIGN.md */
+  @font-face {
+    font-family: 'Geist Variable';
+    src: url('../../portfolio-v2/cv/fonts/geist-latin-wght-normal.woff2') format('woff2');
+    font-weight: 100 900;
+  }
+  @font-face {
+    font-family: 'Geist Variable';
+    src: url('../../portfolio-v2/cv/fonts/geist-latin-ext-wght-normal.woff2') format('woff2');
+    font-weight: 100 900;
+    unicode-range: U+0100-024F, U+1E00-1EFF;
+  }
+  @font-face {
+    font-family: 'Geist Mono Variable';
+    src: url('../../portfolio-v2/cv/fonts/geist-mono-latin-wght-normal.woff2') format('woff2');
+    font-weight: 100 900;
+  }
+
+  :root {
+    --bg-base: #0A0A0B;
+    --border-subtle: #1F1F23;
+    --text-primary: #F5F5F5;
+    --text-body: #A1A1A6;
+    --text-muted: #8E8E8E;
+    --accent: #F59E0B;
+    --accent-glow: rgba(245, 158, 11, 0.20);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1584px;
+    height: 396px;
+    background: var(--bg-base);
+    font-family: 'Geist Variable', system-ui, sans-serif;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* faint vertical grid — barely-there structure */
+  .grid {
+    position: absolute;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.025) 0 1px,
+      transparent 1px 132px
+    );
+  }
+
+  /* amber glow anchored bottom-left, sits behind the LinkedIn avatar —
+     mirrors the portfolio hero cutout + amber glow treatment */
+  .glow {
+    position: absolute;
+    left: -140px;
+    bottom: -260px;
+    width: 640px;
+    height: 640px;
+    background: radial-gradient(circle, var(--accent-glow) 0%, rgba(245, 158, 11, 0.06) 45%, transparent 70%);
+  }
+
+  .content {
+    position: absolute;
+    left: 480px;
+    right: 88px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .eyebrow {
+    font-family: 'Geist Mono Variable', monospace;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 22px;
+  }
+
+  h1 {
+    font-size: 64px;
+    font-weight: 640;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--text-primary);
+  }
+
+  h1 .dot { color: var(--accent); }
+
+  .sub {
+    font-family: 'Geist Mono Variable', monospace;
+    font-size: 21px;
+    font-weight: 400;
+    color: var(--text-body);
+    margin-top: 20px;
+  }
+
+  .rule {
+    width: 96px;
+    height: 3px;
+    background: var(--accent);
+    margin-top: 26px;
+  }
+
+  .tertiary {
+    font-family: 'Geist Mono Variable', monospace;
+    font-size: 17px;
+    color: var(--text-muted);
+    margin-top: 22px;
+  }
+</style>
+</head>
+<body>
+  <div class="grid"></div>
+  <div class="glow"></div>
+  <div class="content">
+    <div class="eyebrow">github.com/kristijan-kresic-hvar</div>
+    <h1>Frontend engineer<br>React · Next.js · TypeScript<span class="dot">.</span></h1>
+    <div class="sub">4+ years shipping production web &amp; mobile for North American clients</div>
+    <div class="rule"></div>
+    <div class="tertiary">Open to work · remote EU or hybrid Split / Zagreb · Hvar, Croatia (CET)</div>
+  </div>
+</body>
+</html>
